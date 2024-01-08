@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about new technologies and learning as much as I can about systems that operate within the Data and Engineering space.
 - 🌱 I’m currently learning data packages and integrating different systems.
 - 💞️ I’m looking to collaborate on anything that catches my eye!
-- 📫 How to reach me on email: jamesnoeleast@gmail.com
+- 📫 How to reach me on email: jamesnoeleast@gmail.com or on LinkedIn: https://www.linkedin.com/in/james-noel-east/
 
 <!---
 JustAnotherKewee/JustAnotherKewee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
